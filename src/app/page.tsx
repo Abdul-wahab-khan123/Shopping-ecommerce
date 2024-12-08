@@ -466,9 +466,9 @@ export default function Home() {
               Sarah M. <IoIosCheckmarkCircle className="text-[#01AB31] " />
             </h5>
             <p className="text-[16px] text-gray-500">
-              "I'm blown away by the quality and style of the clothes I received
+              I,m blown away by the quality and style of the clothes I received
               from Shop.co. From casual wear to elegant dresses, every piece
-              I've bought has exceeded my expectations.”
+              I,ve bought has exceeded my expectations.”
             </p>
           </div>
           <div className="px-[32px] pt-[28px] pb-[50px] border border-gray-300 rounded-lg ">
@@ -493,9 +493,9 @@ export default function Home() {
               Sarah M. <IoIosCheckmarkCircle className="text-[#01AB31] " />
             </h5>
             <p className="text-[16px] text-gray-500">
-              "I'm blown away by the quality and style of the clothes I received
+              I,m blown away by the quality and style of the clothes I received
               from Shop.co. From casual wear to elegant dresses, every piece
-              I've bought has exceeded my expectations.”
+              I ve bought has exceeded my expectations.”
             </p>
           </div>
           <div className="px-[32px] pt-[28px] pb-[50px] border border-gray-300 rounded-lg ">
@@ -520,9 +520,9 @@ export default function Home() {
               Sarah M. <IoIosCheckmarkCircle className="text-[#01AB31] " />
             </h5>
             <p className="text-[16px] text-gray-500">
-              "I'm blown away by the quality and style of the clothes I received
+              I,m blown away by the quality and style of the clothes I received
               from Shop.co. From casual wear to elegant dresses, every piece
-              I've bought has exceeded my expectations.”
+              I,ve bought has exceeded my expectations.”
             </p>
           </div>
           <div className="px-[32px] pt-[28px] pb-[50px] border border-gray-300 rounded-lg ">
@@ -547,9 +547,9 @@ export default function Home() {
               Sarah M. <IoIosCheckmarkCircle className="text-[#01AB31] " />
             </h5>
             <p className="text-[16px] text-gray-500">
-              "I'm blown away by the quality and style of the clothes I received
+              I,m blown away by the quality and style of the clothes I received
               from Shop.co. From casual wear to elegant dresses, every piece
-              I've bought has exceeded my expectations.”
+              I,ve bought has exceeded my expectations.”
             </p>
           </div>
         </div>

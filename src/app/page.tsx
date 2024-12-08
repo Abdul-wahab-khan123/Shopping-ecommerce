@@ -82,7 +82,7 @@ export default function Home() {
         </div>
       </div>
 
-      <div className="container mx-auto pt-[72]">
+      <div className="container mx-auto pt-[72px]">
         <h2 className="text-center text-[48px] font-extrabold pb-[55]">
           NEW ARRIVALS
         </h2>
@@ -239,7 +239,7 @@ export default function Home() {
         <p className="text-center text-[16px] font-medium">View All</p>
       </div>
 
-      <div className="container mx-auto pt-[128]">
+      <div className="container mx-auto pt-[128px]">
         <h2 className="text-center text-[48px] font-extrabold pb-[55] uppercase">
           top selling
         </h2>
@@ -392,7 +392,7 @@ export default function Home() {
         <p className="text-center text-[16px] font-medium">View All</p>
       </div>
 
-      <div className="container mx-auto pt-[150]">
+      <div className="container mx-auto pt-[150px]">
         <h2 className="text-center text-[48px] font-extrabold pb-[87] uppercase">
           BROWSE BY dress STYLE
         </h2>
@@ -438,7 +438,7 @@ export default function Home() {
         </div>
       </div>
 
-      <div className="container mx-auto pt-[80]">
+      <div className="container mx-auto pt-[80px]">
         <h2 className="text-start text-[48px] font-extrabold pb-[40] uppercase">
           OUR HAPPY CUSTOMERS
         </h2>

@@ -156,9 +156,13 @@ export default function Home() {
               </p>
             </div>
             <div className="flex justify-start gap-[10px] items-center">
-            <h3 className="text-[24px] font-bold">$240</h3>
-            <h3 className="text-gray-400 line-through text-[24px] font-bold">$260</h3> 
-            <p className="text-[#FF3333] text-[12px] font-medium py-[6px] px-[13px] bg-red-100 rounded-full">-20%</p>
+              <h3 className="text-[24px] font-bold">$240</h3>
+              <h3 className="text-gray-400 line-through text-[24px] font-bold">
+                $260
+              </h3>
+              <p className="text-[#FF3333] text-[12px] font-medium py-[6px] px-[13px] bg-red-100 rounded-full">
+                -20%
+              </p>
             </div>
           </div>
           <div>
@@ -230,9 +234,13 @@ export default function Home() {
               </p>
             </div>
             <div className="flex justify-start gap-[10px] items-center">
-            <h3 className="text-[24px] font-bold">$130</h3>
-            <h3 className="text-gray-400 line-through text-[24px] font-bold">$160</h3> 
-            <p className="text-[#FF3333] text-[12px] font-medium py-[6px] px-[13px] bg-red-100 rounded-full">-30%</p>
+              <h3 className="text-[24px] font-bold">$130</h3>
+              <h3 className="text-gray-400 line-through text-[24px] font-bold">
+                $160
+              </h3>
+              <p className="text-[#FF3333] text-[12px] font-medium py-[6px] px-[13px] bg-red-100 rounded-full">
+                -30%
+              </p>
             </div>
           </div>
         </div>
@@ -240,7 +248,7 @@ export default function Home() {
       </div>
 
       <div className="container mx-auto pt-[128px]">
-        <h2 className="text-center text-[48px] font-extrabold pb-[55] uppercase">
+        <h2 className="text-center text-[48px] font-extrabold pb-[55px] uppercase">
           top selling
         </h2>
         <div className="grid grid-flow-col items-center pb-[36px]">
@@ -253,7 +261,7 @@ export default function Home() {
               className="h-[298px] w-[259px] object-contain"
             />
             <h4 className="text-[20] font-bold capitalize pt-4 ">
-            vertical striped shirts
+              vertical striped shirts
             </h4>
             <div className="flex justify-start items-center pt-[8] gap-[13]">
               <ul className="flex justify-start items-center gap-[5]">
@@ -278,9 +286,13 @@ export default function Home() {
               </p>
             </div>
             <div className="flex justify-start gap-[10px] items-center">
-            <h3 className="text-[24px] font-bold">$212</h3>
-            <h3 className="text-gray-400 line-through text-[24px] font-bold">$232</h3> 
-            <p className="text-[#FF3333] text-[12px] font-medium py-[6px] px-[13px] bg-red-100 rounded-full">-20%</p>
+              <h3 className="text-[24px] font-bold">$212</h3>
+              <h3 className="text-gray-400 line-through text-[24px] font-bold">
+                $232
+              </h3>
+              <p className="text-[#FF3333] text-[12px] font-medium py-[6px] px-[13px] bg-red-100 rounded-full">
+                -20%
+              </p>
             </div>
           </div>
           <div>
@@ -292,7 +304,7 @@ export default function Home() {
               className="h-[298px] w-[259px] object-contain"
             />
             <h4 className="text-[20] font-bold capitalize pt-4">
-            Courage Graphic T-Shirt
+              Courage Graphic T-Shirt
             </h4>
             <div className="flex justify-start items-center pt-[8] gap-[13]">
               <ul className="flex justify-start items-center gap-[5]">
@@ -327,7 +339,7 @@ export default function Home() {
               className="h-[298px] w-[259px] object-contain"
             />
             <h4 className="text-[20] font-bold capitalize pt-4">
-            loose fit bermuda shorts
+              loose fit bermuda shorts
             </h4>
             <div className="flex justify-start items-center pt-[8] gap-[13]">
               <ul className="flex justify-start items-center gap-[5]">
@@ -362,7 +374,7 @@ export default function Home() {
               className="h-[298px] w-[259px] object-contain"
             />
             <h4 className="text-[20] font-bold capitalize pt-4">
-            faded skinny jeans
+              faded skinny jeans
             </h4>
             <div className="flex justify-start items-center pt-[8] gap-[13]">
               <ul className="flex justify-start items-center gap-[5]">
@@ -393,7 +405,7 @@ export default function Home() {
       </div>
 
       <div className="container mx-auto pt-[150px]">
-        <h2 className="text-center text-[48px] font-extrabold pb-[87] uppercase">
+        <h2 className="text-center text-[48px] font-extrabold pb-[87px] uppercase">
           BROWSE BY dress STYLE
         </h2>
         <div className="grid grid-cols-3 mb-5">
@@ -439,7 +451,7 @@ export default function Home() {
       </div>
 
       <div className="container mx-auto pt-[80px]">
-        <h2 className="text-start text-[48px] font-extrabold pb-[40] uppercase">
+        <h2 className="text-start text-[48px] font-extrabold pb-[40px] uppercase">
           OUR HAPPY CUSTOMERS
         </h2>
 
@@ -494,8 +506,8 @@ export default function Home() {
             </h5>
             <p className="text-[16px] text-gray-500">
               I,m blown away by the quality and style of the clothes I received
-              from Shop.co. From casual wear to elegant dresses, every piece
-              I ve bought has exceeded my expectations.”
+              from Shop.co. From casual wear to elegant dresses, every piece I
+              ve bought has exceeded my expectations.”
             </p>
           </div>
           <div className="px-[32px] pt-[28px] pb-[50px] border border-gray-300 rounded-lg ">

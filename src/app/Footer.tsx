@@ -25,7 +25,7 @@ const Footer = () => {
                     <TfiEmail />
                   </span>
                   <input
-                    className=" placeholder:text-slate-400 placeholder:text-[16px] block text-base bg-white w-full  rounded-full py-[13px] pl-[52px] pr-[135] shadow-sm focus:outline-none focus:border-slate-300 focus:ring-slate-300 focus:ring-1 sm:text-sm"
+                    className=" placeholder:text-slate-400 placeholder:text-[16px] block text-base bg-white w-full  rounded-full py-[13px] pl-[52px] pr-[135px] shadow-sm focus:outline-none focus:border-slate-300 focus:ring-slate-300 focus:ring-1 sm:text-sm"
                     placeholder="Search for anything..."
                     type="text"
                     name="search"

@@ -408,46 +408,49 @@ export default function Home() {
         <h2 className="text-center text-[48px] font-extrabold pb-[87px] uppercase">
           BROWSE BY dress STYLE
         </h2>
-        <div className="grid grid-cols-3 mb-5">
-          <div>
+        
+        <div className="grid grid-cols-3 mb-5 gap-5 relative overflow-hidden">
+          <div className="h-[289px] bg-white rounded-[20px] relative overflow-hidden">
             <Image
               src="/img2.png"
               alt="Description of the image"
               width={259} // Image width
               height={298} // Image height
-              className="h-[289px] w-[408px] object-contain"
+              className="h-[649px] w-[973px] absolute object-cover top-[-48%]"
             />
           </div>
-          <div className="col-span-2">
+          <div className="col-span-2 h-[289px] bg-white rounded-[20px] relative overflow-hidden ">
             <Image
               src="/img1.png"
               alt="Description of the image"
               width={259} // Image width
               height={298} // Image height
-              className="h-[289px] w-[684px] object-contain"
+              className="h-[870px] w-[1306px] absolute object-cover top-[-53%] right-[-45%]"
             />
           </div>
         </div>
-        <div className="grid grid-cols-3 ">
-          <div className="col-span-2">
+
+        <div className="grid grid-cols-3 gap-5 mt-5 relative overflow-hidden">
+          <div className="col-span-2 h-[289px] bg-white rounded-[20px] relative overflow-hidden ">
             <Image
               src="/img4.png"
               alt="Description of the image"
               width={259} // Image width
               height={298} // Image height
-              className="h-[289px] w-[684px] object-contain"
+              className="h-[620px] w-[660px]  absolute object-cover top-[-48%] right-[-9%]"
             />
           </div>
-          <div>
+          <div className="h-[289px] bg-white rounded-[20px]  relative overflow-hidden ">
             <Image
               src="/img3.png"
               alt="Description of the image"
               width={259} // Image width
               height={298} // Image height
-              className="h-[289px] w-[408px] object-contain"
+              className="h-[677px] w-[452px] absolute object-cover top-[-48%] right-[-15%]"
             />
           </div>
         </div>
+
       </div>
 
       <div className="container mx-auto pt-[80px]">
